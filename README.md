@@ -2,7 +2,7 @@
 
 A Unity Package containing all the necessary components to do VR networking with [Photon Fusion](https://www.photonengine.com/fusion)
 
-NOTE: FusionVR is still in beta, bugs, issues, unfinished features and such are to be expected.
+NOTE: FusionVR is still in beta, bugs, issues, unfinished features and such are to be expected.                                                                              
 NOTE: This currently only supports **Fusion V2** and will not support **Fusion V1 anymore**.
 Note: This package was orginally owned by **fchb1239** being edited by **CoolPuppyKid** and **XynorVortex**.
 
