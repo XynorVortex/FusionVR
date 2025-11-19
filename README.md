@@ -10,7 +10,7 @@ Note: This package was orginally owned by **fchb1239** being edited by **CoolPup
 ## XR Development Discord
 [![XR Development Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/rRvnU846Bf)
 ## TheMoneyHub Discord
-[![TheMonkeyHub Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/rRvnU846Bf)
+[![TheMonkeyHub Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/tCaZWUZ3Mf)
                                                                                                                                                                             
 ![FusionPreview1](https://github.com/fchb1239/FusionVR/assets/29258204/dd51f353-cbea-4947-896f-da7525317d4f)
 
