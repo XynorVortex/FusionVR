@@ -7,8 +7,9 @@ NOTE: This currently only supports **Fusion V2** and will not support **Fusion V
 Note: This package was orginally owned by **fchb1239** being edited by **CoolPuppyKid** and **XynorVortex**.
 
 [![Download](https://img.shields.io/badge/Download-blue.svg)](https://github.com/fchb1239/FusionVR/releases/tag/1.0.0)
-[![Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/rRvnU846Bf)
-
+                                                                                                                                                                            [![XR Development Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/rRvnU846Bf)
+                                                                                                                                                                            [![TheMonkeyHub Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/rRvnU846Bf)
+                                                                                                                                                                            
 ![FusionPreview1](https://github.com/fchb1239/FusionVR/assets/29258204/dd51f353-cbea-4947-896f-da7525317d4f)
 
 # Documentation
