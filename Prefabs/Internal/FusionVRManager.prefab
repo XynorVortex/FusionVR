@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9218801851093528444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9218801851093528434}
+  - component: {fileID: 84532657583471625}
+  - component: {fileID: 3208941439545115187}
+  m_Layer: 0
+  m_Name: FusionVRManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 2800000, guid: 75fa8676c33db0c49bb8fb67eaa8bdcf, type: 3}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9218801851093528434
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9218801851093528444}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &84532657583471625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9218801851093528444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de558bc47ac29dc4c8e8cf7c88194e7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Fusion.VR.FusionVRManager
+  FusionAppId: 
+  VoiceAppId: 
+  hideInfo: 0
+  Region: eu
+  Head: {fileID: 0}
+  LeftHand: {fileID: 0}
+  RightHand: {fileID: 0}
+  DefaultQueue: Default
+  DefaultRoomLimit: 10
+  NetworkingMode: 2
+  VoiceAndRunner: {fileID: 8365386202235138203, guid: 0b0d68a494d9f7040ab1e02ce8797914, type: 3}
+  ConnectOnAwake: 1
+  JoinRoomOnConnect: 1
+--- !u!114 &3208941439545115187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9218801851093528444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ddbadd3197027c468572771299c6fc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Fusion.VR.Networking.PlayerSpawner
+  Colour: {r: 0, g: 0, b: 0, a: 1}
+  DefaultUsername: Player
+  NetworkedPlayerPrefab:
+    RawGuidValue: 9a0c66b2d902ff142a14383f0d334e7a
+  CosmeticSlots: []
