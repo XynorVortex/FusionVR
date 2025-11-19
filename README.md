@@ -12,7 +12,7 @@ Note: This package was orginally owned by **fchb1239** being edited by **CoolPup
 ![FusionPreview1](https://github.com/fchb1239/FusionVR/assets/29258204/dd51f353-cbea-4947-896f-da7525317d4f)
 
 # Documentation
-The recommended Unity version is [2021.3.25.1](https://unity.com/releases/editor/whats-new/2021.3.25).
+The recommended Unity version is [2022+](https://unity.com/releases/editor/whats-new/2022.3.62f3#installs).
 
 You need the [Photon Fusion SDK](https://doc.photonengine.com/fusion/v1/getting-started/sdk-download) and [Photon Voice](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518) installed to proceed.
 
